@@ -1,5 +1,6 @@
 <h1 align="center"> Soccer Databese </h1>
-Consider the following set of requirements and build the entity relationship model corresponding to the bank of data relating to the universe of a database referring to soccer games.
+
+Considering sets of requirements, the entity relationship model corresponding to the database referring to football matches was built.
 
 ## 📁 Access the file
 
