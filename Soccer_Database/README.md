@@ -6,5 +6,5 @@
 
 ## 🛠️ Open and run the project.
 
-**- Download and install the java **
-**- Download and open the file **
+**- Download and install the java
+- Download and open the file **
