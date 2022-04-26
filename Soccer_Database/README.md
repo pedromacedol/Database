@@ -1,6 +1,5 @@
 <h1 align="center"> Soccer Team Databese </h1>
-Consider the following set of requirements and build the MER corresponding to the bank
-of data relating to the universe of a database referring to Football games.
+Consider the following set of requirements and build the entity relationship model corresponding to the bank of data relating to the universe of a database referring to soccer games.
 
 ## 📁 Access the file
 
