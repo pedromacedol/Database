@@ -2,7 +2,7 @@
 
 Repository of Database study and projects at University.
 
-## :paperclip: 
+## :paperclip:  Course content:
 
 Unit I:
 - Concepts related to Database;
