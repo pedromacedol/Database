@@ -1,4 +1,4 @@
-<h1 align="center"> Soccer Databese </h1>
+<h1 align="center"> Soccer Databese - Entity relationship model </h1>
 
 Considering sets of requirements, the entity relationship model corresponding to the database referring to football matches was built.
 
