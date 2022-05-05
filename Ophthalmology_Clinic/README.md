@@ -4,7 +4,7 @@ Considering sets of requirements, the entity relationship model corresponding to
 
 ## 📁 Access the file
 
-**Donwload "Ophthalmology_clinic.brM3" or use this link: https://github.com/pedromacedol/Database/blob/main/Ophthalmology_Clinic/Ophthalmology_clinic.brM3 **
+**Donwload "Ophthalmology_clinic.brM3" or use this link: https://github.com/pedromacedol/Database/blob/main/Ophthalmology_Clinic/Ophthalmology_clinic.brM3**
 
 ## 🛠️ Open and run the project.
 
